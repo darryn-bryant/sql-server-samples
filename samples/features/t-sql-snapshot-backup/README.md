@@ -1,5 +1,5 @@
 # T-SQL Snapshot Backup
-This code sample demonstrates how to populate graph tables from an existing table or a csv files. It provides a couple of examples as well.
+This code sample demonstrates an end-to-end solution of backing up and restoring a database in an Azure SQL IaaS Virtual Machine using the T-SQL snapshot backup capabilities introduced in SQL Server 2022
 
 ### Contents
 
@@ -13,7 +13,7 @@ This code sample demonstrates how to populate graph tables from an existing tabl
 1. **Applies to:**
 	- SQL Server 2022 (or higher) Evaluation / Developer / Enterprise editions.
 2. **Key feature:**
-	- Create a T-SQL snapshot backup 
+	- Create a T-SQL snapshot backup
 	- Restore Databse from the snapshot backup
 3. **Programming Language:** PowerShell. T-SQL
 5. **Authors:** Perry Skountrianos [perryskou-msft]
